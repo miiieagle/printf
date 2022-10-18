@@ -28,7 +28,6 @@ int print_from_to(char *start, char *stop, char *except)
  *
  * Return: number bytes printed
  */
-
 int print_rev(va_list ap, params_t *params)
 {
 	int len, sum = 0;
